@@ -1,2 +1,3 @@
 # Ignore config file with secrets
 config/config.php
+.env
